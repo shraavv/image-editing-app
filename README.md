@@ -1,1 +1,1 @@
-# image-editing-app
+# image editing app
